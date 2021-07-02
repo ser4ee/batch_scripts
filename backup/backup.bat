@@ -2,7 +2,7 @@
 echo ====================================================
 echo Files are archived and copied.
 echo With respect,re3v76.
-echo Githab link http://
+echo Githab link https://github.com/ser4ee/webserverwsl
 echo ====================================================
 set day=%DATE:~0,2%
 set month=%DATE:~3,2%
